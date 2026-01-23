@@ -1,1 +1,1 @@
-# systolic-array-accelerator
+# systolic array accelerator
