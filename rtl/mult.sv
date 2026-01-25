@@ -5,5 +5,6 @@ module mult(
 )
 
     // muliplicatoin logic at gate level here
+    // Use dadda tree implementation
 
 endmodule

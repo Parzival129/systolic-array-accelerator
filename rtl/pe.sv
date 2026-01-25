@@ -10,6 +10,10 @@ module pe (
 
     always @(posedge clk) begin
         
+        mult(.A(A), )
+        assign accumulator <= accumulator + A + B
+
+
     end
 
 
