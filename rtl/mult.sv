@@ -1,6 +1,6 @@
 module mult(
     input[15:0] A,
-    input[15:0] B,
+     input[15:0] B,
     output[15:0] out
 )
 
